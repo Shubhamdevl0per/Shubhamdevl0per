@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
+ <a href="" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://linkedin.com/in/al-siam" target="_blank">
@@ -53,7 +53,7 @@
  <a href="https://www.instagram.com/shubham_.kumar._/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
- <a href="[https://facebook.com/alsiam.world](https://www.facebook.com/micle.kumar/)" target="_blank">
+ <a href="https://www.facebook.com/micle.kumar)" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
